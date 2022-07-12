@@ -26,8 +26,7 @@ SECRET_KEY = '&yy!2+#6t(hak7bp-gogp7(-m*bmh1%)u%1n_)e-(82hn#p-a@'
 DEBUG =True
 
 ALLOWED_HOSTS = [
-    'hello-akash.herokuapp.com'
-    '127.0.0.1'
+   'hello-akash.herokuapp.com'
     ]
 
 
