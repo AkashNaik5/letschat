@@ -26,7 +26,7 @@ SECRET_KEY = '&yy!2+#6t(hak7bp-gogp7(-m*bmh1%)u%1n_)e-(82hn#p-a@'
 DEBUG =True
 
 ALLOWED_HOSTS = [
-   'set-chat.herokuapp.com'
+#    'set-chat.herokuapp.com'
     ]
 
 
@@ -123,7 +123,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 # STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+# STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 STATICFILES_DIRS = [
 
