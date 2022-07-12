@@ -26,7 +26,7 @@ SECRET_KEY = '&yy!2+#6t(hak7bp-gogp7(-m*bmh1%)u%1n_)e-(82hn#p-a@'
 DEBUG =True
 
 ALLOWED_HOSTS = [
-#    'get-set-chat.herokuapp.com'
+   'get-set-chat.herokuapp.com'
     ]
 
 
